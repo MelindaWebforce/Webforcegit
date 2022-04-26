@@ -1,5 +1,8 @@
-animaux
-  -chien chat
+animaux:
+  -chien
+  -chat
   -poule
+  -souris
+
 
    
